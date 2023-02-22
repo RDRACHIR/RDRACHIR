@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.postimg.cc/3xnkxXwL/Logo.png" width="650"/>
-  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?     font=Fira+Code&weight=200&size=20&pause=1000&width=435&lines=%C2%A1HOLA+CODERS%2C+SOY+RICHARD+RAMIREZ+Y+BIENVENIDOS+A+MI+GITHUB!" alt="Typing SVG" /></a></h1>
+  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?     font=Fira+Code&weight=200&size=20&pause=1000&width=435&lines=%C2%A1HOLA+BIENVENIDOS%2C+SOY+RICHARD+RAMIREZ!" alt="Typing SVG" /></a></h1>
 </div>
 
   Un estudiante de analisis de sistemas de información y desarrollador, apasionado por la tecnología y la programación 👨🏻‍💻. 
